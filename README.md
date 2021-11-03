@@ -40,13 +40,13 @@ The changes in source files are marked with the keyword "Nhan".
 
 ## Citation
 When using this code, please consider citing:
-* The original CAMB and axionCAMB papers at: 
+* The original CAMB and axionCAMB papers: 
 	* [arXiv:astro-ph/9911177](https://arxiv.org/abs/astro-ph/9911177)
 	* [arXiv:1201.3654](https://arxiv.org/abs/1201.3654)
 	* [arXiv:1410.2896](https://arxiv.org/abs/1410.2896')
-* The original Recfast and Recfast++ papers at: 
+* The original Recfast and Recfast++ papers: 
 	* [arXiv:astro-ph/9909275](https://arxiv.org/abs/astro-ph/9909275)
 	* [arXiv:1003.4928](https://arxiv.org/abs/1003.4928)
 	* [arXiv:1010.3631](https://arxiv.org/abs/1010.3631)
-* The original axi-Higgs papers (if you use the axi-Higgs mode):
-	* (Luu 2021, in preparation)
+* The original aHCAMB paper (if you use the axi-Higgs mode):
+	* [arXiv:2111.01347](https://arxiv.org/abs/2111.01347)
